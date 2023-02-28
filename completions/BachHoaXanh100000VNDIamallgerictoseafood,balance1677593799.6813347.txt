@@ -1,0 +1,7 @@
+Here is the list:
+-1 can of Coca Cola (15000 VND)
+-1 packet of potato chips (5000 VND)
+-1 piece of bread (8000 VND)
+-1 piece of cake (10000 VND)
+
+The total cost of the items is 38000 VND, which is below the 100000 VND limit.

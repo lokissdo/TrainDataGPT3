@@ -1,0 +1,6 @@
+-5 kg of rice: 37,500 VND
+-2 kg of chicken: 40,000 VND
+-1 kg of pork: 25,000 VND
+-1 kg of veggies: 15,000 VND
+
+Total cost: 117,500 VND

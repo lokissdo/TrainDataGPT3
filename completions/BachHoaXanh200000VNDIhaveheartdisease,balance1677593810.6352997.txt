@@ -1,0 +1,6 @@
+Item 1: White rice - 16000 VND/kg
+Item 2: Chicken thighs - 56000 VND/kg
+Item 3: Red beans - 12000 VND/kg
+Item 4: Pork belly - 40000 VND/kg
+
+Total cost: 188000 VND

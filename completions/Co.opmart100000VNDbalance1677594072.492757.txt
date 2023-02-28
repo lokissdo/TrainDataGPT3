@@ -1,0 +1,4 @@
+Item: Tofu
+Amount: 1 kg
+Cost: 25,000 VND
+Tofu is a healthy, protein-rich food that can be used in a variety of dishes. It is perfect for a quick and healthy meal.

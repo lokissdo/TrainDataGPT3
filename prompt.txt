@@ -1,0 +1,2 @@
+<<UUID>>
+Now I am about to go <<STORE>> grocery store and I have <<PRICE>> to buy food, <<PERSONALIZATION>> I want to <<PURPOSE>>. Give me a list of what I should buy. The list should contain the name, amount, cost, and quick explanation for each item. Total cost must below <<PRICE>>. Use current VietNam market price. Give me total cost.

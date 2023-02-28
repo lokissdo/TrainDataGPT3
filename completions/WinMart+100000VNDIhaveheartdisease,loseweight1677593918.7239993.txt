@@ -1,0 +1,7 @@
+-Tomato (1 kg): 40,000 VND
+-Cucumber (1 kg): 30,000 VND
+-Carrot (1 kg): 25,000 VND
+-Beef (0.5 kg): 120,000 VND
+-Rice (1 kg): 20,000 VND
+
+Total cost: 245,000 VND

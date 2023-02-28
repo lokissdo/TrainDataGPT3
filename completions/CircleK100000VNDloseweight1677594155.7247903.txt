@@ -1,0 +1,9 @@
+A list of food items that can be bought for under 100,000 VND at a Circle K grocery store in Vietnam is as follows:
+
+-1kg of rice: 40,000 VND
+-1 can of tuna: 15,000 VND
+-1 pack of ramen noodles: 10,000 VND
+-1 banana: 5,000 VND
+-1 apple: 10,000 VND
+
+Total cost: 80,000 VND

@@ -1,0 +1,7 @@
+1. Rice: 2kg, cost: 10000 VND, quick explanation: staple food in Vietnam
+2. Pork: 500g, cost: 30000 VND, quick explanation: popular protein source in Vietnam
+3. Egg: 2, cost: 10000 VND, quick explanation: popular protein source in Vietnam
+4. Cabbage: 1, cost: 5000 VND, quick explanation: popular vegetable in Vietnam
+5. Pepper: 1, cost: 5000 VND, quick explanation: popular spice in Vietnam
+
+Total cost: 50000 VND

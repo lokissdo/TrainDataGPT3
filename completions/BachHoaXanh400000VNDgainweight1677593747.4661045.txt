@@ -1,0 +1,6 @@
+-A bag of rice: 59,000 VND
+-A can of tuna: 15,000 VND
+-A bottle of soy sauce: 12,000 VND
+-A package of instant noodles: 7,000 VND
+
+Total cost: 93,000 VND

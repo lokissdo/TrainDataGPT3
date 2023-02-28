@@ -1,0 +1,6 @@
+-A gallon of milk: 116000 VND
+-A dozen eggs: 24000 VND
+-A loaf of bread: 14000 VND
+-A pound of chicken: 40000 VND
+
+Total cost: 198000 VND

@@ -1,0 +1,9 @@
+-Rice: 2kg for 40,000 VND
+-Eggs: 2 trays for 20,000 VND
+-Chicken: 1kg for 40,000 VND
+-Beef: 500g for 60,000 VND
+-Carrots: 1kg for 15,000 VND
+-Potatoes: 1kg for 10,000 VND
+-Onions: 1kg for 10,000 VND
+
+Total cost: 145,000 VND

@@ -1,0 +1,7 @@
+-Rice: 2kg (68,000 VND)
+-Beans: 0.5kg (20,000 VND)
+-potato: 1kg (11,000 VND)
+-carrot: 1kg (23,000 VND)
+-onion: 1kg (15,000 VND)
+
+Total cost: 147,000 VND

@@ -1,0 +1,7 @@
+-1 kg of rice: 11,000 VND
+-500 grams of chicken: 40,000 VND
+-1 can of tuna: 18,000 VND
+-2 apples: 20,000 VND
+-1 banana: 7,000 VND
+
+Total cost: 96,000 VND

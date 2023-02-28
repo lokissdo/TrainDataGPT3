@@ -1,0 +1,6 @@
+Use current VietNam market price if possible.
+
+Name: Vegetarian Pho 
+Amount: 2 servings 
+Cost: 40,000 VND 
+ Explanation: This is a delicious and healthy alternative to traditional pho that is both budget-friendly and allergy-friendly.

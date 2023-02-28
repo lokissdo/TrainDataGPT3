@@ -1,0 +1,25 @@
+Name: tofu
+Amount: 2 blocks
+Cost: 40,000 VND
+
+Tofu is a versatile and healthy protein source that can help you lose weight. It is low in calories and fat, and high in protein and fiber. tofu can be used in a variety of dishes, including soups, stir-fries, and salads.
+
+Name: Lentils
+Amount: 1 cup
+Cost: 16,000 VND
+
+Lentils are a great source of protein and fiber, both of which are important for weight loss. Lentils are also low in calories and contain no fat.
+
+Name: Brown Rice
+Amount: 1 cup
+Cost: 7,000 VND
+
+Brown rice is a healthy, whole grain that is a good source of fiber. It can help you lose weight by keeping you full and preventing you from overeating.
+
+Name: Broccoli
+Amount: 1 bunch
+Cost: 32,000 VND
+
+Broccoli is an excellent source of fiber, vitamins, and minerals. It is low in calories and can help you lose weight by keeping you full and preventing you from overeating.
+
+Total cost: 97,000 VND

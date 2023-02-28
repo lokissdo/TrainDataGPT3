@@ -1,0 +1,6 @@
+-1 can of Spam: 29,000 VND
+-1 can of corned beef: 45,000 VND
+-2 bags of instant noodles: 8,000 VND
+-2 boiled eggs: 10,000 VND
+
+Total cost: 92,000 VND

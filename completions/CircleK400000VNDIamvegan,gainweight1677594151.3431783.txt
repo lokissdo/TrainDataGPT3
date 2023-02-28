@@ -1,0 +1,7 @@
+-Tofu: 2 packs, 45000 VND each, total cost: 90000 VND
+-Edamame: 1 pack, 40000 VND, total cost: 40000 VND
+-Rice: 2 kg, 30000 VND/kg, total cost: 60000 VND
+-Canned black beans: 2 cans, 40000 VND each, total cost: 80000 VND
+- Chocolate: 1 bar, 30000 VND, total cost: 30000 VND
+
+Total cost: 280000 VND

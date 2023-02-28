@@ -1,0 +1,6 @@
+-	Rice: 2 kg, price: 40,000 VND 
+-	Noodles: 1 package, price: 15,000 VND 
+-	Vegetables: 2 kg, price: 30,000 VND 
+-	Eggs: 1 carton, price: 32,000 VND 
+-	Chicken: 1 kg, price: 75,000 VND 
+-	Total cost: 222,000 VND

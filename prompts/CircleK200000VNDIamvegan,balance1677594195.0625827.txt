@@ -1,0 +1,6 @@
+Store: Circle K
+Price: 200000 VND
+Personalization: I am vegan, 
+Purpose: balance
+
+LIST: 

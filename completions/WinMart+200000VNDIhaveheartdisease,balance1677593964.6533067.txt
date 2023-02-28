@@ -1,0 +1,7 @@
+1 carton of eggs: 12000 VND
+1 kilogram of rice: 13000 VND
+1 can of tuna: 11000 VND
+1 package of noodles: 8000 VND
+1 bottle of water: 10000 VND
+
+Total cost: 54000 VND

@@ -1,0 +1,7 @@
+-1kg of pork: price = 90000 VND
+-2kg of rice: price = 20000 VND
+-1 can of green beans: price = 12000 VND 
+-3 carrots: price = 9000 VND
+-1 cucumber: price = 7000 VND
+
+Total cost: 116000 VND

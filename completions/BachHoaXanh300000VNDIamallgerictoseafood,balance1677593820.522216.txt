@@ -1,0 +1,13 @@
+Item                                    | Amount  | Cost    | Explanation
+Rice (gạo)                                | 2 kg    | 16000 VND| A common staple in Vietnamese households
+Water (nước)                              | 2 L     | 12000 VND| To cook rice and for drinking
+Pork (thịt lợn)                            | 500 g   | 40000 VND| For making Bún chả
+Carrots (cà rốt)                          | 1 kg    | 10000 VND| For making Bún chả
+Green beans (đậu xanh)                  | 500 g   | 10000 VND| For making Bún chả
+Mushrooms (nấm)                          | 500 g   | 20000 VND| For making Bún chả
+Vermicelli (bún)                         | 500 g   | 10000 VND| For making Bún chả
+Chili sauce (tương ớt)                   | 1 bottle| 10000 VND| For making Bún chả
+Soy sauce (tương đen)                   | 1 bottle| 10000 VND| For making Bún chả
+Spring onion (hành lá)                  | 1 bunch | 10000 VND| For making Bún chả
+
+Total cost: 140000 VND

@@ -1,0 +1,6 @@
+-Rice: 2kg   -VND 22,000
+-Chicken: 1kg - VND 40,000
+-Eggs: 2 dozen  - VND 22,000
+-Vegetables: 1kg - VND 15,000
+
+Total cost: VND 99,000

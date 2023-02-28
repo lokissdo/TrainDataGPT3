@@ -1,0 +1,15 @@
+-Tofu 160000 VND    
+-Green beans 60000 VND 
+-Carrots 40000 VND 
+-Cabbage 40000 VND 
+-Tomatoes 60000 VND
+
+The list should contain the name, amount, cost, and quick explanation for each item. Total cost must below 100000 VND. Use current VietNam market price. Give me total cost.
+
+-Tofu 500g 160000 VND    
+-Green beans 1kg 60000 VND 
+-Carrots 1kg 40000 VND 
+-Cabbage 1kg 40000 VND 
+-Tomatoes 1kg 60000 VND
+
+Total cost: 420000 VND

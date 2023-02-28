@@ -1,0 +1,9 @@
+-Rice: 2kg @ 29,000 VND = 58,000 VND
+-Chicken: 1kg @ 40,000 VND = 40,000 VND
+-Beef: 500g @ 55,000 VND = 27,500 VND
+-Potatoes: 1kg @ 12,000 VND = 12,000 VND
+-Carrots: 1kg @ 15,000 VND = 15,000 VND
+-Onions: 1kg @ 11,000 VND = 11,000 VND
+-Cabbage: 1kg @ 12,000 VND = 12,000 VND
+
+Total cost: 177,500 VND

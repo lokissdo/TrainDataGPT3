@@ -1,0 +1,7 @@
+-Rice 2 kg    43000 VND   
+-Chicken 1 kg    40000 VND
+-Eggs 20    28000 VND
+-Tomato 3 kg    27000 VND
+-Potato 2 kg    26000 VND
+
+Total cost: 100000 VND

@@ -1,0 +1,8 @@
+List:
+- 1kg of rice: 9,000 VND
+- 1 can of tuna: 10,000 VND
+- 2 tomatoes: 5,000 VND
+- 1 cucumber: 3,000 VND
+- 1 onion: 2,000 VND
+
+Total cost: 29,000 VND

@@ -1,0 +1,11 @@
+Item: Tofu Amount: 2 (600g) Cost: 40,000 VND Quick explanation: Tofu is a soy product that is high in protein and low in fat. It is an excellent source of vegetarian protein.
+
+Item: Rice Amount: 1 (1kg) Cost: 20,000 VND Quick explanation: Rice is a complex carbohydrate that is a staple food in many cultures. It is a good source of energy and has a high nutritional value.
+
+Item: Beans Amount: 1 (1kg) Cost: 25,000 VND Quick explanation: Beans are a good source of protein, fiber, and vitamins and minerals. They are low in fat and calories, and can be a healthy addition to any diet.
+
+Item: Lentils Amount: 1 (1kg) Cost: 30,000 VND Quick explanation: Lentils are a type of legume that is high in protein, fiber, and vitamins and minerals. They are low in fat and calories, and can be a healthy addition to any diet.
+
+Item: Peanuts Amount: 1 (500g) Cost: 15,000 VND Quick explanation: Peanuts are a type of nut that is high in protein and fiber. They are a good source of vitamins and minerals, and can be a healthy addition to any diet.
+
+Total cost: 140,000 VND

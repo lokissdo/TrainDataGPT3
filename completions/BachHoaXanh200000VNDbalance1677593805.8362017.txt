@@ -1,0 +1,7 @@
+List:
+
+-Rice: 2kg at 40,000VND per kg for a total of 80,000VND
+-Vegetables: 1kg at 20,000VND per kg for a total of 20,000VND
+-Meat: 500g at 120,000VND per kg for a total of 60,000VND
+
+Total cost: 180,000VND

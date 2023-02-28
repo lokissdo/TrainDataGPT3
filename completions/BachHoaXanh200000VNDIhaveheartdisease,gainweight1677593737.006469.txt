@@ -1,0 +1,8 @@
+-Vegetables: carrots, cabbage, onions, 50,000 VND
+-Fruits: apples, bananas, oranges, 40,000 VND
+-Meat: pork, chicken, beef, 110,000 VND
+-Dairy: milk, cheese, yogurt, 30,000 VND
+-Bread: baguette, rolls, 50,000 VND
+-Snacks: cookies, chips, 20,000 VND
+
+Total cost: 350,000 VND

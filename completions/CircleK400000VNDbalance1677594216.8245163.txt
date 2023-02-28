@@ -1,0 +1,11 @@
+-1 can of Coke (25,000 VND): The can of Coke will cost 25,000 VND.
+
+-1 pack of instant noodles (15,000 VND): The pack of instant noodles will cost 15,000 VND.
+
+-1 piece of fruit (10,000 VND): The piece of fruit will cost 10,000 VND.
+
+-1 bottle of water (7,000 VND): The bottle of water will cost 7,000 VND.
+
+-1 bag of chips (20,000 VND): The bag of chips will cost 20,000 VND.
+
+Total cost: 92,000 VND

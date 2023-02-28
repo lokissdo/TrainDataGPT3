@@ -1,0 +1,9 @@
+-Rice: 2kg, cost: 40000 VND. Vietnam is a rice-producing country, and rice is a dietary staple for the Vietnamese people.
+
+-Vegetables: 1kg, cost: 10000 VND. Vegetables are low in calories and a good source of vitamins and minerals, making them an essential part of a healthy diet.
+
+-Fish: 500g, cost: 30000 VND. Fish is a lean, low-calorie source of protein that is rich in omega-3 fatty acids, which are beneficial for heart health.
+
+-Chicken: 1kg, cost: 40000 VND. Chicken is a lean, low-fat source of protein that is also a good source of vitamins and minerals.
+
+Total cost: 160000 VND

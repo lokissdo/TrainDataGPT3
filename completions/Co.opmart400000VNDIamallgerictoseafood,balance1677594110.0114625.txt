@@ -1,0 +1,7 @@
+-1 package of rice: 15,000 VND
+-1 can of soup: 10,000 VND
+-1 chicken: 40,000 VND
+-1 bag of apples: 30,000 VND
+-1 carton of milk: 20,000 VND
+
+The total cost of these items would be 115,000 VND, which is under the 400,000 VND limit.

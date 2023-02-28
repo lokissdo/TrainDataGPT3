@@ -1,0 +1,8 @@
+- Vegetables: carrots, celery, zucchini, spinach, kale, tomatoes 
+- Fruits: apples, bananas, oranges, pears 
+- Whole grain bread 
+- Nuts and seeds: almonds, sunflower seeds, pumpkin seeds 
+- Dairy: yogurt, cottage cheese, milk, cheese 
+- protein: tofu, eggs, lentils, black beans
+
+carrots, celery, zucchini, spinach, kale, tomatoes, apples, bananas, oranges, pears, whole grain bread, almonds, sunflower seeds, pumpkin seeds, yogurt, cottage cheese, milk, cheese, tofu, eggs, lentils, black beans.

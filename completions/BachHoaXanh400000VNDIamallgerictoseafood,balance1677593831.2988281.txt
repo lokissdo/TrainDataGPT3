@@ -1,0 +1,8 @@
+-Rice: 1 kilo @ 15,000 VND   
+-Vegetables: 2 @ 10,000 VND 
+-Chicken: 1 @ 40,000 VND
+-Eggs: 2 @ 5,000 VND 
+-Banana: 1 @ 7,000 VND
+-Milk: 1 @ 12,000 VND
+
+Total cost: 107,000 VND

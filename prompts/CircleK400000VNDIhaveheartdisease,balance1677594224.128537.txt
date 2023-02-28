@@ -1,0 +1,6 @@
+Store: Circle K
+Price: 400000 VND
+Personalization: I have heart disease, 
+Purpose: balance
+
+LIST: 

@@ -1,0 +1,7 @@
+Each item:
+- 1 can of tuna: 40,000 VND
+- 1 bottle of water: 12,000 VND
+- 1 bag of rice: 15,000 VND
+- 1 cucumber: 5,000 VND
+
+Total cost: 172,000 VND

@@ -1,0 +1,8 @@
+aud22bcd-9068-44c2-819f-14672f1a0acf
+
+1. Chicken breast: 2kg, cost: 200000 VND, quick explanation: For protein
+2. Rice: 1kg, cost: 30000 VND, quick explanation: For carbohydrates
+3. Vegetables: 1kg, cost: 40000 VND, quick explanation: For vitamins and minerals
+4. Fruit: 1kg, cost: 50000 VND, quick explanation: For vitamins and antioxidants
+
+Total cost: 400000 VND

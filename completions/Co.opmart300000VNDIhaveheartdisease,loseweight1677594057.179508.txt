@@ -1,0 +1,10 @@
+-Rice: 2 kg, 40,000 VND. The staple food of Vietnam, often eaten with savory dishes.
+-Chicken: 1 kg, 99,000 VND. A popular source of protein that can be cooked in myriad ways.
+-Eggs: 2 trays (30 eggs), 48,000 VND. A versatile ingredient that can be cooked in many different ways.
+-Tomatoes: 3 kg, 36,000 VND. A refreshing and healthy addition to any meal.
+-Cucumbers: 1 kg, 12,000 VND. A crunchy and refreshing vegetable.
+-Carrots: 1 kg, 22,000 VND. A sweet and healthy vegetable.
+-Lettuce: 1 head, 15,000 VND. A crunchy and refreshing green.
+-Potatoes: 2 kg, 32,000 VND. A filling and starchy vegetable.
+
+Total cost: 304,000 VND

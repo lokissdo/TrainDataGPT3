@@ -1,0 +1,7 @@
+-Rice: 2kg @13,000 VND = 26,000 VND
+-Chicken: 1kg @ 40,000 VND = 40,000 VND
+-Eggs: 30 @ 7,000 VND = 210,000 VND
+-Carrots: 1kg @11,000 VND = 11,000 VND
+-Cauliflower: 1 @ 20,000 VND = 20,000 VND
+
+Total cost = 117,000 VND

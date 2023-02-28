@@ -1,0 +1,9 @@
+This is not a programming task. 
+
+1) 2.5 kg of rice: 60,000 VND
+2) 1kg of pork: 40,000 VND
+3) 0.5 kg of chicken: 25,000 VND
+4) 1 can of tuna: 15,000 VND
+5) 2 bottles of water: 12,000 VND
+
+Total cost: 152,000 VND

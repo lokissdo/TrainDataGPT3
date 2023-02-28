@@ -1,0 +1,8 @@
+- 1kg of rice: cost 18000 VND, provides necessary carbohydrates
+- 500g of lean pork: cost 40000 VND, provides protein and some fat
+- 1 cucumber: cost 5000 VND, provides hydration and vitamins
+- 1 small bottle of soy sauce: cost 10000 VND, for flavoring
+- 1 small bottle of fish sauce: cost 10000 VND, for flavoring
+- 1 lime: cost 2000 VND, for flavoring
+
+Total cost: 100000 VND

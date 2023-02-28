@@ -1,0 +1,6 @@
+-2 cans of tuna fish: 200000 VND
+-1 bottle of water: 1000 VND
+-1 kg of rice: 12000 VND
+-1 can of Coke: 5000 VND
+
+Total cost: 219000 VND

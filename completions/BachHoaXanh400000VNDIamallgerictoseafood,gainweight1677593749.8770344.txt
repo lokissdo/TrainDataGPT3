@@ -1,0 +1,11 @@
+-1 can of Campbell soup: 15000 VND
+-1 bottle of olive oil: 40000 VND
+-1 kg of rice: 12000 VND
+-1 package of tofu: 40000 VND
+-1 can of kidney beans: 20000 VND
+-1 kg of chicken: 40000 VND
+-1 kg of carrots: 10000 VND
+-1 yellow onion: 10000 VND
+-1 garlic clove: 5000 VND
+
+Total cost: 135000 VND

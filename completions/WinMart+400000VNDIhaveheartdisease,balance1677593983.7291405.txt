@@ -1,0 +1,7 @@
+-Rice: 2 kg, 34000 VND, 2 kg x 17000 VND/kg = 34000 VND
+-Chicken: 1 kg, 40000 VND, 1 kg x 40000 VND/kg = 40000 VND
+-Eggs: 2 dozen, 24000 VND, 2 dozen x 12000 VND/dozen = 24000 VND
+-Vegetables: 1 kg, 10000 VND, 1 kg x 10000 VND/kg = 10000 VND
+-Fruit: 1 kg, 20000 VND, 1 kg x 20000 VND/kg = 20000 VND
+
+Total cost: 136000 VND

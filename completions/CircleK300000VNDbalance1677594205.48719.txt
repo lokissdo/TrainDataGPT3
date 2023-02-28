@@ -1,0 +1,6 @@
+1 can of tuna: 15,000 VND
+1 cup of rice: 5,000 VND
+1 egg: 2,000 VND
+1/2 onion: 1,000 VND
+
+Total cost: 23,000 VND

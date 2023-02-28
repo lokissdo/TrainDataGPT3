@@ -1,0 +1,21 @@
+1. Bananas - 3 kg 
+- Price: 54,000 VND 
+- Quick explanation: Bananas are a good source of dietary potassium, vitamin C, dietary fiber and vitamin B6. They can help you regulate blood pressure and are a good snack for people trying to lose weight.
+
+2. carrots - 1 kg
+- Price: 32,000 VND 
+- Quick explanation: Carrots are a good source of dietary fiber, vitamin A, and potassium. They can help you regulate blood sugar levels and are a healthy snack for people trying to lose weight.
+
+3. apples - 2 kg
+- Price: 40,000 VND 
+- Quick explanation: Apples are a good source of dietary fiber, vitamin C, and potassium. Eating an apple a day can help you regulate blood sugar levels and are a healthy snack for people trying to lose weight.
+
+4. chicken breast - 1 kg
+- Price: 120,000 VND 
+- Quick explanation: Chicken breast is a lean protein source that is also low in calories. It is a good choice for people trying to lose weight or maintain a healthy weight.
+
+5. brown rice - 1 kg
+- Price: 24,000 VND 
+- Quick explanation: Brown rice is a whole grain that is a good source of fiber and nutrients. It is a healthy choice for people trying to lose weight or maintain a healthy weight.
+
+Total cost: 364,000 VND

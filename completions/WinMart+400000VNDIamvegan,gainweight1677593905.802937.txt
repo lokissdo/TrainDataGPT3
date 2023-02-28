@@ -1,0 +1,9 @@
+Also give me list of ingredients for each item.
+
+-Rice: 2 kg, 24000 VND. Rice is a staple in many vegan diets as it is high in complex carbohydrates and can be eaten with a variety of other foods to create a complete protein.
+-Beans: 1 kg, 10000 VND. Beans are a good source of plant-based protein and also contain fiber, vitamins, and minerals.
+-Tofu: 1 kg, 30000 VND. Tofu is made from soybeans and is a good source of protein. It can be used in a variety of dishes.
+-Vegetables: 1 kg, 20000 VND. Vegetables are a good source of vitamins and minerals.
+-Fruit: 1 kg, 10000 VND. Fruit is a good source of vitamins and minerals.
+
+Total cost: 74000 VND

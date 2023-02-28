@@ -1,0 +1,8 @@
+-Rice: 2kg   -VND 22,000
+-Chicken: 1kg -VND 54,000
+-Eggs: 20pieces -VND 11,400
+-Tomato: 1kg -VND 12,000
+-Cucumber: 1kg -VND 7,000
+-Carrot: 1kg -VND 8,000
+
+Total cost: VND 134,400
